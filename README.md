@@ -1,2 +1,2 @@
-# My-first-repo-ever-theReal
-Practicing repo for learning Git
+# My-first-repo
+Practicing repo for learning Git ARE you sure?
