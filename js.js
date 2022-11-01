@@ -1,5 +1,6 @@
-const eslam = "hehehehehehehehehehehhehehehehe"
-const stop = [1,2,3,4,5]
-for (i=0; i < stop.length; i++){
-    console.log(stop[i],eslam[0+1+2+3+4])
-}
+const eslam = eslam 
+console.log(eslam)
+var ahmed = 10
+var ad = 5
+const how = ahemd + ad
+console.log(ahemd + ad)
